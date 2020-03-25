@@ -1,4 +1,4 @@
-@@||xiaomi.com
-@@||xiaomi.net
-@@||miui.com
-@@||mi.com
+@@||xiaomi.com^
+@@||xiaomi.net^
+@@||miui.com^
+@@||mi.com^
